@@ -1,7 +1,8 @@
 <h1 align="center">Hi, I'm Merzt</h1>
 <h3 align="center">I'm a Roblox script developer that prioritizes smaller games with the end goal of helping the developer stop exploiters.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=merzttt&label=Profile%20views&color=0e75b6&style=flat" alt="merzttt" /> </p>
+<p align="left"> <img src="https://k![merztbanner](https://user-images.githubusercontent.com/120368875/210504252-9aa6e33b-57cb-4828-803e-1e699ec68c08.png)
+omarev.com/ghpvc/?username=merzttt&label=Profile%20views&color=0e75b6&style=flat" alt="merzttt" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=merzttt" alt="merzttt" /></a> </p>
 
