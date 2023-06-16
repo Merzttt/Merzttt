@@ -7,7 +7,6 @@
 
 - 🔭 I’m currently working on **Vanta Cheats, a Roblox script hub for many different games.**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
