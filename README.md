@@ -1,7 +1,7 @@
 ![poo](https://user-images.githubusercontent.com/120368875/210505431-206f932e-fc1d-4251-9048-2e78fed91f96.png)
 
 <h1 align="center">Hi, I'm Merzt</h1>
-<h3 align="center">I'm a Roblox script developer that prioritizes smaller games with the end goal of helping the developer stop exploiters.</h3>
+<h3 align="center">I'm a Roblox script developer that prioritizes smaller games.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=merzttt&label=Profile%20views&color=0e75b6&style=flat" alt="merzttt" /> </p>
 
