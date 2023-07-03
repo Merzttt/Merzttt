@@ -1,4 +1,4 @@
-![poo](https://user-images.githubusercontent.com/120368875/210505431-206f932e-fc1d-4251-9048-2e78fed91f96.png)
+<p align="center"><img src="https://user-images.githubusercontent.com/120368875/210505431-206f932e-fc1d-4251-9048-2e78fed91f96.png" alt="poo"></p>
 
 <h1 align="center">Hi 👋, I'm Merzt</h1>
 <h3 align="center">literally just exploit on roblox istg</h3>
@@ -8,7 +8,6 @@
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=merzttt&show_icons=true&locale=en&layout=compact" alt="merzttt" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=merzttt&show_icons=true&locale=en&layout=compact" alt="merzttt" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=merzttt&show_icons=true&locale=en" alt="merzttt" /></p>
-
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=merzttt&show_icons=true&locale=en" alt="merzttt" /></p>
