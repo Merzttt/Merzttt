@@ -5,7 +5,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=merzttt&label=Profile%20views&color=0e75b6&style=flat" alt="merzttt" /> </p>
 
-- I'm working on **Vanta**
+<h3 align="center">- I'm working on **Vanta**</h3>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
