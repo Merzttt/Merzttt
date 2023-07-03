@@ -5,8 +5,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=merzttt&label=Profile%20views&color=0e75b6&style=flat" alt="merzttt" /> </p>
 
-<h3 align="center">- I'm working on **Vanta**</h3>
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://discord.gg/MA4EKg3nT2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="MA4EKg3nT2" height="30" width="40" /></a>
