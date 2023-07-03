@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Merzt</h1>
 <h3 align="center">literally just exploit on roblox istg</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=merzttt&label=Profile%20views&color=0e75b6&style=flat" alt="merzttt" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=merzttt&label=Profile%20views&color=0e75b6&style=flat" alt="merzttt" /> </p>
 
 - I'm working on **Vanta**
 
